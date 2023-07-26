@@ -1,0 +1,8 @@
+# Question: How much time (without the percentage sign, e.g. 5.0) did the vehicle tailgate? 
+Answer=11.2454
+
+# EXAMPLE: 
+# Answer='5.0'
+
+# DO NOT CHANGE BELOW
+!echo $Answer > my_assessment/answer_5.txt
